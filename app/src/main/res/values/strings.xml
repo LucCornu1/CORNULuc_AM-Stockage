@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CORNULuc_Storage</string>
+    <string name="name">Name</string>
+
+    <string name="save">Save</string>
+    <string name="show">Show</string>
+</resources>

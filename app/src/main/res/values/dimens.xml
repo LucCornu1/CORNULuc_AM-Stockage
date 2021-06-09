@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- Margin -->
+    <dimen name="margin32">32dp</dimen>
+    <dimen name="margin128">128dp</dimen>
+    <dimen name="margin64">64dp</dimen>
+    <dimen name="margin50">50dp</dimen>
+    <dimen name="margin24">24dp</dimen>
+    <dimen name="margin10">10dp</dimen>
+
+    <!-- Size -->
+    <dimen name="size10">10dp</dimen>
+    <dimen name="size128">128dp</dimen>
+</resources>
